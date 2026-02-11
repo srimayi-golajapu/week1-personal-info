@@ -26,10 +26,10 @@ It demonstrates the use of:
    python personal_info.py
 ## Project Structure
 
-week1-personal-info/
-│── personal_info.py
-│── README.md
-│── test_inputs.txt
+week1-personal-info
+├── personal_info.py
+├── README.md
+├── test_inputs.txt
 └── .gitignore
 
 ## Example Output
