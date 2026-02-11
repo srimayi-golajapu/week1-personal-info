@@ -1,0 +1,23 @@
+Test Case 1 - Normal Input
+Name: Rahul Sharma
+Age: 20
+City: Delhi
+Email: rahul@gmail.com
+
+Test Case 2 - Extra Spaces
+Name:   anita verma   
+Age:  22
+City:   bangalore  
+Email:   anita@gmail.com  
+
+Test Case 3 - Invalid Age (Non-numeric)
+Name: Vikram
+Age: twenty
+City: Pune
+Email: vikram@gmail.com
+
+Test Case 4 - Empty Name
+Name:
+Age: 19
+City: Chennai
+Email: student@email.com
