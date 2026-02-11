@@ -27,10 +27,11 @@ It demonstrates the use of:
 ## Project Structure
 
 week1-personal-info
-├── personal_info.py
-├── README.md
-├── test_inputs.txt
-└── .gitignore
+├──personal_info.py
+├──README.md
+├──test_inputs.txt
+└──.gitignore
+
 
 ## Example Output
 
